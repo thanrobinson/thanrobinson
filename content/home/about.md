@@ -10,9 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Ecology",
+    "Community Development",
+    "Rangeland Conservation",
+    "Wildlife Conservation",
+    "Watershed Management",
+    "Remote Sensing for Conservation"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +38,4 @@ weight = 5
 
 # Biography
 
-Nathaniel Robinson is a research scientist at the University of Montana in the Numerical Terradynamic Simulation Group (NTSG). His reseach interests include using 
+I use 
